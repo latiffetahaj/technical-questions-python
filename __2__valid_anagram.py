@@ -33,29 +33,6 @@ def isAnagram(s,t):
     return True
 
 
-    # if s == None or t == None:
-    #     return False
-
-    # if len(s) != len(t):
-    #     return False
-
-    # s_map, t_map = {}, {}
-
-    # #build hashmaps
-    # for i in range(len(s)):
-    #     s_map[s[i]] = 1 + s_map.get(s[i], 0)
-    #     t_map[t[i]] = 1 + t_map.get(t[i], 0)
-
-    # #compare
-    # for letter in s:
-    #     if letter in s_map and letter in t_map:
-    #         if s_map[letter] != t_map[letter]:
-    #             return False
-    #     else:
-    #         return False
-
-    # return True
-
 
 
 

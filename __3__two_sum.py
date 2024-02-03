@@ -25,22 +25,3 @@ def two_sum(nums, target):
         hash_map[number] = index
 
 
-
-
-
-
-
-
-
-
-
-    # hash_map = {}
-
-    # for index, nr in enumerate(nums):
-    #     remainder = target - nr
-
-    #     if remainder in hash_map:
-    #         return [hash_map[remainder], index]
-
-    #     hash_map[nr] = index
-
