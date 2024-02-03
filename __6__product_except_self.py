@@ -43,10 +43,3 @@ def product_except_self(nums):
     return result
 
 
-
-def main():
-    print(product_except_self([1,2,3,4]))
-    print(product_except_self([-1,1,0,-3,3]))
-
-if __name__ == '__main__':
-    main()
