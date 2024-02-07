@@ -12,6 +12,8 @@
     A Sudoku board (partially filled) could be valid but is not necessarily solvable.
     Only the filled cells need to be validated according to the mentioned rules.
 
+    #LeetCode: https://leetcode.com/problems/valid-sudoku/description/
+
     Time Complexity: O(n^2)
 
     Space Complexity: O(n^2)
