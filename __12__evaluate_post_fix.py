@@ -46,16 +46,3 @@ def calculate(second,first,op):
         return first * second
     else:
         return math.trunc(first / second)
-
-
-def main():
-    print(evaluate_post_fix(["2","1","+","3","*"]))
-    print(evaluate_post_fix(["10","6","9","3","+","-11","*","/","*","17","+","5","+"]))
-
-    print(calculate(-132,6,'/'))
-
-    print(math.trunc(6/(-132)))
-
-
-if __name__ == '__main__':
-    main()
