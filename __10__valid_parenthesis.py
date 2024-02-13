@@ -11,7 +11,10 @@
         1 <= s.length <= 10^4
         s consists of parentheses only '()[]{}'.
 
+    #LeetCode: https://leetcode.com/problems/valid-parentheses/
+
     Time Complexity: O(n)
+
     Space Complexity: O(n)
 
 '''
