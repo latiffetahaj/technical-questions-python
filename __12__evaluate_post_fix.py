@@ -45,4 +45,5 @@ def calculate(second,first,op):
     elif op == '*':
         return first * second
     else:
+        #used math.trunc to truncate towards zero
         return math.trunc(first / second)
