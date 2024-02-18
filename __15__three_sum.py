@@ -12,7 +12,7 @@
 
     Time Complexity: O(n^2)
 
-    Space Complexity: ??
+    Space Complexity: O(1) or in some cases if sorting uses extra space, then O(n)
 
 
 '''
