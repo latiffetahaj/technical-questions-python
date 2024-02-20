@@ -31,12 +31,12 @@ def most_water_container(height):
         right_height = height[r]
 
         # area = (distance between two pointers) x (which height is smaller)
-        if left_height > right_height:
-            current_area = (r - l) * right_height
-            r -= 1
-        else:
+        if left_height < right_height:
             current_area = (r - l) * left_height
             l += 1
+        else:
+            current_area = (r - l) * right_height
+            r -= 1
 
         if current_area > max_area:
             max_area = current_area
