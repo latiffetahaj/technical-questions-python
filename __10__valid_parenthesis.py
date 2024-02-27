@@ -26,7 +26,9 @@ def has_valid_parenthesis(input):
     for c in input:
         if c in pair:
             stack.append(c)
-        elif not stack or pair[stack.pop()] != c:
+        #if closing parenthesis found when stack empty, return false
+        #or when pair of parenthesis doesn't match
+        elif len(stack) == 0 or pair[stack.pop()] != c:
             return False
 
-    return not stack
+    return len(stack) == 0
