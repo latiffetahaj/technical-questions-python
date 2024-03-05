@@ -104,3 +104,18 @@ class LinkedList:
             current = current.next
 
         return values
+
+    #implemented just for creating cycles in a linked-list
+    #makes tail point to the given position
+    #precondition: pos index needs to be a valid index from the linked-list
+    #nodes are 0-th indexed
+    def createCycle(self, pos):
+        current = self.head
+        i = 0
+        while current and i != pos:
+            current = current.next
+            i += 1
+
+        #make tail point at current
+        self.tail.next = current
+
