@@ -1,6 +1,6 @@
 import unittest
 
-from __1__contains_duplicate import contains_duplicate
+from __001__contains_duplicate import contains_duplicate
 
 
 class TestContainsDuplicate(unittest.TestCase):

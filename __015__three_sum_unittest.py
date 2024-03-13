@@ -1,5 +1,5 @@
 import unittest
-from __15__three_sum import three_sum
+from __015__three_sum import three_sum
 
 class TestThreeSum(unittest.TestCase):
     def test_duplicate_solutions(self):

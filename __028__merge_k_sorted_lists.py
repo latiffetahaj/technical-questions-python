@@ -32,7 +32,7 @@
     Space Complexity: O(1)
 '''
 
-from __24__merge_2_sorted_lists import merge_two_lists
+from __024__merge_2_sorted_lists import merge_two_lists
 
 def merge_k_sorted_lists(lists):
     #the algorithm is as follows:

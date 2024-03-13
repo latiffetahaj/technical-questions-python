@@ -1,5 +1,5 @@
 import unittest
-from __17__min_rotated_array import find_min
+from __017__min_rotated_array import find_min
 
 
 class TestFindMin(unittest.TestCase):

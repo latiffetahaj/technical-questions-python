@@ -1,6 +1,6 @@
 import unittest
-from __00__linked_list_implementation import LinkedList
-from __27__remove_nth_node import remove_nth_node
+from __000__linked_list_implementation import LinkedList
+from __027__remove_nth_node import remove_nth_node
 
 class TestRemoveNthNode(unittest.TestCase):
 

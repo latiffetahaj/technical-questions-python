@@ -15,7 +15,7 @@
 
     Space Complexity: O(1)
 '''
-from __00__linked_list_implementation import ListNode
+from __000__linked_list_implementation import ListNode
 
 def merge_two_lists(list1, list2):
     dummy = ListNode()

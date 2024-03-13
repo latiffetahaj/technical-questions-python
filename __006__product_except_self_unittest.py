@@ -1,5 +1,5 @@
 import unittest
-from __6__product_except_self import product_except_self
+from __006__product_except_self import product_except_self
 
 class TestProductExceptSelf(unittest.TestCase):
     def test_positive_inputs(self):

@@ -1,7 +1,7 @@
 import unittest
 
-from __00__linked_list_implementation import LinkedList
-from __24__merge_2_sorted_lists import merge_two_lists
+from __000__linked_list_implementation import LinkedList
+from __024__merge_2_sorted_lists import merge_two_lists
 
 class TestMergeTwoLists(unittest.TestCase):
     def setUp(self):

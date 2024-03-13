@@ -1,6 +1,6 @@
 import unittest
-from __00__linked_list_implementation import LinkedList
-from __25__has_cycle_linked_list import has_cycle
+from __000__linked_list_implementation import LinkedList
+from __025__has_cycle_linked_list import has_cycle
 
 class TestHasCycle(unittest.TestCase):
         def setUp(self):
