@@ -13,7 +13,7 @@
         p != q
         p and q will exist in the BST.
 
-    #LeetCode: https://leetcode.com/problems/balanced-binary-tree/description/
+    #LeetCode: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/
 
     Time Complexity: O(logn) - n => nr of the nodes in the tree
 
