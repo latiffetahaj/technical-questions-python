@@ -32,6 +32,9 @@ class BinaryTree:
 
         def build(list_values, index):
 
+            if list_values[index] is None:
+                return None
+
             root = TreeNode(list_values[index])
 
             #left child is located at 2 * (current node index) + 1
