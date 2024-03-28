@@ -50,32 +50,3 @@ def kth_smallest_iterative_dfs(root, k):
             if current.right:
                 stack.append(current.right)
                 current.right = None
-
-
-#another approach is to do a inorder DFS recursively
-#and keep a global variable to know when k elements are processed
-#drawback of this approach is that a complete inorder traversal of the tree is done even though
-#we might have found the kth smallest element earlier
-
-#Time Complexity: O(n)
-#Space Complexity: O(2^h) where h is the height of the tree
-
-def kth_smallest_recursive_dfs(root,k):
-    result = []
-    index = [k]
-
-    def inorder(root):
-        if not root:
-            return
-
-        inorder(root.left)
-        index[0] -= 1
-        if index[0] == 0:
-            result[0] = root.val
-        else:
-            result.append(root.val)
-        inorder(root.right)
-
-
-    inorder(root)
-    return result
