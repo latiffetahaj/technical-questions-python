@@ -15,7 +15,7 @@
 
     Space Complexity: O(2^h) where h - height of the tree
 '''
-#algorithm is to follow a depth right search
+#algorithm is to follow a depth first search
 #two main calculations are done
 #at each node, the path from left -> root -> right is checked
 #we call this path with a split since at root we are spliting on the left and on the right
