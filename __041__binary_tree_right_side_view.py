@@ -26,6 +26,7 @@ def binary_tree_right_side_view(root):
         q.append(root)
 
     while q:
+
         index = 1
         for i in range(len(q)):
             current = q.popleft()

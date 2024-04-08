@@ -16,10 +16,6 @@
         At most 3 * 10^4 calls in total will be made to insert, search, and startsWith.
 
     #LeetCode: https://leetcode.com/problems/implement-trie-prefix-tree/description/
-
-    Time Complexity:
-
-    Space Complexity:
 '''
 
 class TrieNode:
