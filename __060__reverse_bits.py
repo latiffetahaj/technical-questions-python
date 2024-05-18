@@ -9,7 +9,7 @@
 
     #LeetCode: https://leetcode.com/problems/reverse-bits/description/
 
-    Time Complexity: O(1)
+    Time Complexity:  O(b) where b is the length of a given input in binary
     Space Complexity: O(1)
 '''
 # For testing purposes the function:

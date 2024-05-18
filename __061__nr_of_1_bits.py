@@ -10,8 +10,8 @@
 
     #LeetCode: https://leetcode.com/problems/number-of-1-bits/
 
-    Time Complexity:
-    Space Complexity:
+    Time Complexity: O(b) where b is the length of a given input in binary
+    Space Complexity: O(1)
 '''
 
 def hamming_weight(n):
