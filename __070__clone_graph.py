@@ -19,8 +19,8 @@
 
     #LeetCode: https://leetcode.com/problems/clone-graph/
 
-    Time Complexity:
-    Space Complexity:
+    Time Complexity: O(V + E), where V is the number of vertices (nodes) and E is the number of edges.
+    Space Complexity: O(V + E)
 '''
 class GraphNode:
     def __init__(self, val=0, neighbors=None):
