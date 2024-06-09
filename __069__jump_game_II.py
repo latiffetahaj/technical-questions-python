@@ -29,6 +29,7 @@ def min_jump(nums):
     res = 0
     l = r = 0
 
+    # r needs to be less than the last index, because if r == last_index, then the goal is accomplished.
     while r < len(nums) - 1:
         farthest = 0
         # Find what's the max jump that we can make from the current level.
