@@ -12,7 +12,7 @@
         0 <= ai, bi < numCourses
         All the pairs prerequisites[i] are unique.
 
-    #LeetCode: https://leetcode.com/problems/missing-number/
+    #LeetCode: https://leetcode.com/problems/course-schedule/
 
     Time Complexity: O(V + E)
 
