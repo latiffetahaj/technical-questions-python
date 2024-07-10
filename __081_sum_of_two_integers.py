@@ -16,7 +16,7 @@
 # The mask is initialized as an hexadecimal number, but its bit representation is just 32 1-bits.
 
 
-def sum_two_integers(a: int, b: int) -> int:
+def sum_two_integers(a, b):
     mask = 0xffffffff
 
     while (mask & b) > 0:
