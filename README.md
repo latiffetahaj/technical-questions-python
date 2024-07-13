@@ -11,7 +11,7 @@
 - [Tries](#tries)
 - [Backtracking](#backtracking)
 - [Heap / Priority Queue](#heap-priority-queue)
-- [Graph](#graph)
+- [Graphs](#graphs)
 - [1D Dynamic Programming](#dynamic-programming-1D)
 - [Intervals](#intervals)
 - [Greedy](#greedy)
