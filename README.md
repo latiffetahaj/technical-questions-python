@@ -12,6 +12,16 @@ This repository contains solutions to LeetCode problems, implemented in Python. 
 - [Trees](#trees)
 - [Tries](#tries)
 - [Backtracking](#backtracking)
+- [Heap / Priority Queue](#heap-priority-queue)
+- [Graphs](#graphs)
+- [1D Dynamic Programming](#dynamic-programming-1D)
+- [Intervals](#intervals)
+- [Greedy](#greedy)
+- [Advanced Graphs](#advanced-graphs)
+- [2D Dynamic Programming](#dynamic-programming-2D)
+- [Bit Manipulation](#bit-manipulation)
+- [Math & Geometry](#math-geometry)
+- [Others](#others)
 
 ## Arrays & Hashing
 1. [Contains Duplicate](./__001__contains_duplicate.py) - [Unit Tests](./__001__contains_duplicate_unittest.py)
