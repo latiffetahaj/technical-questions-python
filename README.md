@@ -76,7 +76,7 @@ This repository contains solutions to LeetCode problems, implemented in Python. 
 38. [Construct Binary Tree from Preorder and Inorder Traversal](./__038__construct_tree_preorder_inorder.py) - [Unit Tests](./__038__construct_tree_preorder_inorder_unittest.py)
 39. [Kth Smallest Element in a BST](./__039__k_th_smallest_element_BST.py) - [Unit Tests](./__039__k_th_smallest_element_BST_unittest.py)
 40. [Binary Tree Maximum Path Sum](./__040__binary_tree_max_path_sum.py) - [Unit Tests](./__040__binary_tree_max_path_sum_unittest.py)
-41. [Binary Tree Right Sice View](./__041__binary_tree_right_side_view.py) - [Unit Tests](./__041__binary_tree_right_side_view_unittest.py)
+41. [Binary Tree Right Side View](./__041__binary_tree_right_side_view.py) - [Unit Tests](./__041__binary_tree_right_side_view_unittest.py)
 
 ## Tries
 42. [Implement Trie (Prefix Tree)](./__042__implement_trie_prefix.py) - [Unit Tests](./__042__implement_trie_prefix_unittest.py)
