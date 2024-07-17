@@ -138,6 +138,7 @@ This repository contains solutions to LeetCode problems, implemented in Python. 
 
 ## 2D Dynamic Programming
 87. [Unique Paths](./__087__unique_paths.py) - [Unit Tests](./__087__unique_paths_unittest.py)
+88. [Longest Common Subsequence](./__088__longest_common_subsequence.py) - [Unit Tests](./__088__longest_common_subsequence_unittest.py)
 
 ## Math & Geometry
 77. [Rotate Image](./__077__rotate_image.py) - [Unit Tests](./__077__rotate_image_unittest.py)
