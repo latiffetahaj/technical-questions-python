@@ -21,7 +21,7 @@ This repository contains solutions to LeetCode problems, implemented in Python. 
 - [2D Dynamic Programming](#dynamic-programming-2D)
 - [Bit Manipulation](#bit-manipulation)
 - [Math & Geometry](#math--geometry)
-- [Implementation of Data Structures](#implementation-- data--structures)
+- [Implementation of Data Structures](#implementation--data--structures)
 
 ## Arrays & Hashing
 1. [Contains Duplicate](./__001__contains_duplicate.py) - [Unit Tests](./__001__contains_duplicate_unittest.py)
