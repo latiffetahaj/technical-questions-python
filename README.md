@@ -21,7 +21,7 @@ This repository contains solutions to LeetCode problems, implemented in Python. 
 - [2D Dynamic Programming](#dynamic-programming-2D)
 - [Bit Manipulation](#bit-manipulation)
 - [Math & Geometry](#math-geometry)
-- [Others](#others)
+- [Implementation of Data Structures](#ds-implementation)
 
 ## Arrays & Hashing
 1. [Contains Duplicate](./__001__contains_duplicate.py) - [Unit Tests](./__001__contains_duplicate_unittest.py)
@@ -144,3 +144,11 @@ This repository contains solutions to LeetCode problems, implemented in Python. 
 77. [Rotate Image](./__077__rotate_image.py) - [Unit Tests](./__077__rotate_image_unittest.py)
 78. [Spiral Matrix](./__078__spiral_matrix.py) - [Unit Tests](./__078__spiral_matrix_unittest.py)
 79. [Set Matrix Zeroes](./__079__set_matrix_zeros.py) - [Unit Tests](./__079__set_matrix_zeros_unittest.py)
+
+## Implementation of Data Structures
+00. [Binary Tree](./__000__binary_tree_implementation.py)
+00. [Linked List](./__000__linked_list_implementation.py)
+00. [Min Heap](./__000__min_heap_implementation.py)
+00. [Trie](./__000__trie_implementation.py)
+00. [Min Stack](./__011__min_stack.py)
+
