@@ -136,6 +136,9 @@ This repository contains solutions to LeetCode problems, implemented in Python. 
 85. [Meeting Rooms](./__085__meeting_rooms.py) - [Unit Tests](./__085__meeting_rooms_unittest.py)
 86. [Meeting Rooms II](./__086__meeting_rooms_II.py) - [Unit Tests](./__086__meeting_rooms_II_unittest.py)
 
+## 2D Dynamic Programming
+87. [Unique Paths](./__087__unique_paths.py) - [Unit Tests](./__087__unique_paths_unittest.py)
+
 ## Math & Geometry
 77. [Rotate Image](./__077__rotate_image.py) - [Unit Tests](./__077__rotate_image_unittest.py)
 78. [Spiral Matrix](./__078__spiral_matrix.py) - [Unit Tests](./__078__spiral_matrix_unittest.py)
