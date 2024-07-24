@@ -102,6 +102,7 @@ This repository contains solutions to LeetCode problems, implemented in Python. 
 57. [Word Break](./__057__word_break.py) - [Unit Tests](./__057__word_break_unittest.py)
 58. [Palindromic Substrings](./__058__palindromic_substring.py) - [Unit Tests](./__058__palindromic_substring_unittest.py)
 59. [Longest Palindromic Substring](./__059__longest_palindromic_substring.py) - [Unit Tests](./__059__longest_palindromic_substring_unittest.py)
+89. [Max Product Subarray](./__089__max_product_subarray.py) - [Unit Tests](./__089__max_product_subarray_unittest.py)
 
 ## Bit Manipulation
 60. [Reverse Bits](./__060__reverse_bits.py) - [Unit Tests](./__060__reverse_bits_unittest.py)
