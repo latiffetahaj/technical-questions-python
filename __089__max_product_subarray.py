@@ -2,10 +2,7 @@
     152. Maximum Product Subarray
     Given an integer array nums, find a subarray that has the largest product, and return the product.
 
-The test cases are generated so that the answer will fit in a 32-bit integer.
-
-    Note:
-        (0,8),(8,10) is not considered a conflict at 8.
+    The test cases are generated so that the answer will fit in a 32-bit integer.
 
     Constraints:
         1 <= nums.length <= 2 * 10^4
