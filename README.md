@@ -1,6 +1,7 @@
 # LeetCode Solutions by Latif
 
-This repository contains solutions to LeetCode problems, implemented in Python. Each solution is accompanied by unit tests to ensure correctness.
+This repository contains solutions to LeetCode problems, implemented in Python.
+Each solution has unit tests to validate its functionality.
 
 ## Table of Contents
 - [Arrays & Hashing](#arrays--hashing)
@@ -132,6 +133,7 @@ This repository contains solutions to LeetCode problems, implemented in Python. 
 72. [Graph Valid Tree](./__072__graph_valid_tree.py) - [Unit Tests](./__072__graph_valid_tree_unittest.py)
 75. [Course Schedule](./__075__course_schedule.py) - [Unit Tests](./__075__course_schedule_unittest.py)
 76. [Number of Connected Components in an Undirected Graph](./__076__nr_connected_components_graph.py) - [Unit Tests](./__076__nr_connected_components_graph_unittest.py)
+93. [Max Area Island](./__093__max_area_island.py) - [Unit Tests](./__093__max_area_island_unittest.py)
 
 ## Intervals
 82. [Insert Interval](./__082__insert_interval.py) - [Unit Tests](./__082__insert_interval_unittest.py)
