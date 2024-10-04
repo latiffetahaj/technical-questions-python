@@ -106,7 +106,7 @@ Each solution has unit tests to validate its functionality.
 58. [Palindromic Substrings](./__058__palindromic_substring.py) - [Unit Tests](./__058__palindromic_substring_unittest.py)
 59. [Longest Palindromic Substring](./__059__longest_palindromic_substring.py) - [Unit Tests](./__059__longest_palindromic_substring_unittest.py)
 89. [Max Product Subarray](./__089__max_product_subarray.py) - [Unit Tests](./__089__max_product_subarray_unittest.py)
-90. [Decode Ways](./__090__decode_ways.py) - [Unit Tests](./__090__decode_ways_unittest.py)
+90 [Decode Ways](./__090__decode_ways.py) - [Unit Tests](./__090__decode_ways_unittest.py)
 
 ## Bit Manipulation
 60. [Reverse Bits](./__060__reverse_bits.py) - [Unit Tests](./__060__reverse_bits_unittest.py)
