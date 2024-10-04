@@ -82,6 +82,7 @@ This repository contains solutions to LeetCode problems, implemented in Python. 
 ## Tries
 42. [Implement Trie (Prefix Tree)](./__042__implement_trie_prefix.py) - [Unit Tests](./__042__implement_trie_prefix_unittest.py)
 91. [Add and Search Word DS (Trie)](./__091__add_search_words_ds.py) - [Unit Tests](./__091__add_search_words_ds_unittest.py)
+92. [Word Search II](./__092__word_search_II.py) - [Unit Tests](./__092__word_search_II_unittest.py)
 
 ## Backtracking
 43. [Generate All Permutations](./__043__generate_permutations.py) - [Unit Tests](./__043__generate_permutations_unittest.py)
