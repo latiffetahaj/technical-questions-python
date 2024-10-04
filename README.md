@@ -67,17 +67,29 @@ Each solution has unit tests to validate its functionality.
 
 ## Trees
 29 [Invert Binary Tree](./__029__invert_binary_tree.py) - [Unit Tests](./__029__invert_binary_tree_unittest.py)
+
 30 [Maximum Depth of Binary Tree](./__030__max_depth_binary_tree.py) - [Unit Tests](./__030__max_depth_binary_tree_unittest.py)
+
 31 [Diameter of Binary Tree](./__031__diameter_of_binary_tree.py) - [Unit Tests](./__031__diameter_of_binary_tree_unittest.py)
+
 32 [Same Tree](./__032__same_binary_tree.py) - [Unit Tests](./__032__same_binary_tree_unittest.py)
+
 33 [Subtree of Another Tree](./__033__subtree_of_another_tree.py) - [Unit Tests](./__033__subtree_of_another_tree_unittest.py)
+
 34 [Balanced Binary Tree](./__034__balanced_binary_tree.py) - [Unit Tests](./__034__balanced_binary_tree_unittest.py)
+
 35 [Lowest Common Ancestor of a BST](./__035__lowest_common_ancestor_BST.py) - [Unit Tests](./__035__lowest_common_ancestor_BST_unittest.py)
+
 36 [Binary Tree Level Order Traversal](./__036__level_order_traversal.py) - [Unit Tests](./__036__level_order_traversal_unittest.py)
+
 37 [Validate Binary Search Tree](./__037__validate_binary_search_tree.py) - [Unit Tests](./__037__validate_binary_search_tree_unittest.py)
+
 38 [Construct Binary Tree from Preorder and Inorder Traversal](./__038__construct_tree_preorder_inorder.py) - [Unit Tests](./__038__construct_tree_preorder_inorder_unittest.py)
+
 39 [Kth Smallest Element in a BST](./__039__k_th_smallest_element_BST.py) - [Unit Tests](./__039__k_th_smallest_element_BST_unittest.py)
+
 40 [Binary Tree Maximum Path Sum](./__040__binary_tree_max_path_sum.py) - [Unit Tests](./__040__binary_tree_max_path_sum_unittest.py)
+
 41 [Binary Tree Right Side View](./__041__binary_tree_right_side_view.py) - [Unit Tests](./__041__binary_tree_right_side_view_unittest.py)
 
 ## Tries
