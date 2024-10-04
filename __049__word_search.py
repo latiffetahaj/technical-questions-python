@@ -14,7 +14,7 @@
 
     #LeetCode: https://leetcode.com/problems/word-search/description/
 
-    Time Complexity: O(n * m * word.length)
+    Time Complexity: O(n * m * 4 ^ (word.length))
     Space Complexity: O(word.length) The number of calls in the call stack are at most word.length
 '''
 
