@@ -210,6 +210,8 @@ Each solution has unit tests to validate its functionality.
 
 96 [Surrounded Regions](./__096__surrounded_regions.py) - [Unit Tests](./__096__surrounded_regions_unittest.py)
 
+97 [Course Schedule II](./__097__course_schedule_II.py) - [Unit Test](./__097__course_schedule_II_unittest.py)
+
 ## Intervals
 82 [Insert Interval](./__082__insert_interval.py) - [Unit Tests](./__082__insert_interval_unittest.py)
 
