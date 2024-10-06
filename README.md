@@ -208,6 +208,8 @@ Each solution has unit tests to validate its functionality.
 
 95 [Rotting Oranges](./__095__rotting_oranges.py) - [Unit Tests](./__095__rotting_oranges_unittest.py)
 
+96 [Surrounded Regions](./__096__surrounded_regions.py) - [Unit Tests](./__096__surrounded_regions_unittest.py)
+
 ## Intervals
 82 [Insert Interval](./__082__insert_interval.py) - [Unit Tests](./__082__insert_interval_unittest.py)
 
