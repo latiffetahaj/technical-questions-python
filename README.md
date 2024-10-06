@@ -206,6 +206,8 @@ Each solution has unit tests to validate its functionality.
 
 94 [Walls and Gates](./__094__walls_and_gates.py) - [Unit Tests](./__094__walls_and_gates_unittest.py)
 
+95 [Rotting Oranges](./__095__rotting_oranges.py) - [Unit Tests](./__095__rotting_oranges_unittest.py)
+
 ## Intervals
 82 [Insert Interval](./__082__insert_interval.py) - [Unit Tests](./__082__insert_interval_unittest.py)
 
