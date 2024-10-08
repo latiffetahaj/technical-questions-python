@@ -212,7 +212,7 @@ Each solution has unit tests to validate its functionality.
 
 97 [Course Schedule II](./__097__course_schedule_II.py) - [Unit Tests](./__097__course_schedule_II_unittest.py)
 
-98 [Redundant Connection](./__098__redundant_connection.py) = [Unit Tests](./__098__redundant_connection_unittest.py)
+98 [Redundant Connection](./__098__redundant_connection.py) - [Unit Tests](./__098__redundant_connection_unittest.py)
 
 ## Intervals
 82 [Insert Interval](./__082__insert_interval.py) - [Unit Tests](./__082__insert_interval_unittest.py)
