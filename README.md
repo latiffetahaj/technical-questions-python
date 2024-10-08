@@ -1,9 +1,9 @@
 # LeetCode Solutions
 
 This repository contains solutions to LeetCode problems, implemented in Python. <br>
-Each solution has unit tests to validate its functionality. <br>
+Each solution has unit tests to validate its functionality. Test cases are generated based on the input constraints. <br>
 Problems are selected from the roadmap by [NeetCode](https://neetcode.io/roadmap). <br>
-Currently, I have solved 98 questions.
+Currently, I have solved 99 questions.
 
 ## Table of Contents
 - [Arrays & Hashing](#arrays--hashing)
@@ -58,6 +58,8 @@ Currently, I have solved 98 questions.
 14 [Container With Most Water](./__014__most_water_container.py) - [Unit Tests](./__014__most_water_container_unittest.py)
 
 15 [Three Sum](./__015__three_sum.py) - [Unit Tests](./__015__three_sum_unittest.py)
+
+99 [Two Sum II - Input Sorted](./__099__two_sum_II.py) - [Unit Tests](./__099__two_sum_II_unittest.py)
 
 ## Binary Search
 16 [Binary Search](./__016__binary_search.py) - [Unit Tests](./__016__binary_search_unittest.py)
