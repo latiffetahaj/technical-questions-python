@@ -3,7 +3,7 @@
 This repository contains solutions to LeetCode problems, implemented in Python. <br>
 Each solution has unit tests to validate its functionality. Test cases are generated based on the input constraints. <br>
 Problems are selected from the roadmap by [NeetCode](https://neetcode.io/roadmap). <br>
-Currently, I have solved 99 questions.
+Currently, I have solved 100 questions.
 
 ## Table of Contents
 - [Arrays & Hashing](#arrays--hashing)
@@ -187,6 +187,8 @@ Currently, I have solved 99 questions.
 65 [Last Stone Weight](./__065__last_stone_weight.py) - [Unit Tests](./__065__last_stone_weight_unittest.py)
 
 66 [Find Median from Data Stream](./__066__find_median_from_data_stream.py) - [Unit Tests](./__066__find_median_from_data_stream_unittest.py)
+
+100 [K Closest Points to Origin](./__100__k_closest_points_to_origin.py) - [Unit Tests](./__100__k_closest_points_to_origin_unittest.py)
 
 ## Greedy
 67 [Maximum Subarray](./__067__max_sum_subarray.py) - [Unit Tests](./__067__max_sum_subarray_unittest.py)
