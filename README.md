@@ -2,7 +2,7 @@
 
 This repository contains solutions to LeetCode problems, implemented in Python. <br>
 Each solution has unit tests to validate its functionality. <br>
-Problems are selected from the [roadmap by NeetCode](https://neetcode.io/roadmap) <br>
+Problems are selected from the roadmap by [NeetCode](https://neetcode.io/roadmap). <br>
 Currently, I have solved 98 questions.
 
 ## Table of Contents
