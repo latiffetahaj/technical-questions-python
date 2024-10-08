@@ -73,7 +73,7 @@ Each solution has unit tests to validate its functionality.
 
 22 [Longest Repeating Character Replacement](./__022__longest_repeating_character.py) - [Unit Tests](./__022__longest_repeating_character_unittest.py)
 
-73 [Min Window Substring](./__073__min_window_substring.py) ([Unit tests](./__073__min_window_substring_unittest.py))
+73 [Min Window Substring](./__073__min_window_substring.py) - [Unit tests](./__073__min_window_substring_unittest.py)
 
 ## Linked Lists
 23 [Reverse Linked List](./__023__reverse_linked_list.py) - [Unit Tests](./__023__reverse_linked_list_unittest.py)
@@ -210,7 +210,9 @@ Each solution has unit tests to validate its functionality.
 
 96 [Surrounded Regions](./__096__surrounded_regions.py) - [Unit Tests](./__096__surrounded_regions_unittest.py)
 
-97 [Course Schedule II](./__097__course_schedule_II.py) - [Unit Test](./__097__course_schedule_II_unittest.py)
+97 [Course Schedule II](./__097__course_schedule_II.py) - [Unit Tests](./__097__course_schedule_II_unittest.py)
+
+98 [Redundant Connection](./__098__redundant_connection.py) = [Unit Tests](./__098__redundant_connection_unittest.py)
 
 ## Intervals
 82 [Insert Interval](./__082__insert_interval.py) - [Unit Tests](./__082__insert_interval_unittest.py)
