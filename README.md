@@ -1,7 +1,9 @@
-# LeetCode Solutions by Latif
+# LeetCode Solutions
 
 This repository contains solutions to LeetCode problems, implemented in Python.
 Each solution has unit tests to validate its functionality.
+Problems are selected from the [Roadmap by NeetCode](https://neetcode.io/roadmap)
+Currently, I have solved 98 questions.
 
 ## Table of Contents
 - [Arrays & Hashing](#arrays--hashing)
